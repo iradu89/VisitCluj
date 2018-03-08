@@ -1,0 +1,12 @@
+<resources>
+
+    <color name="primary_color">#00838F</color>
+    <color name="primary_dark_color">#006064</color>
+
+    //Category colors
+    <color name="must_do">#FFE0B2</color>
+    <color name="parks">#C5E1A5</color>
+    <color name="shopping">#EF9A9A</color>
+    <color name="history">#80CBC4</color>
+    <color name="nightlife">#FF7043</color>
+</resources>

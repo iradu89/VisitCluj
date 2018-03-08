@@ -1,0 +1,154 @@
+<resources>
+
+    <string name="app_name">Visit Cluj</string>
+
+    <!-- Categories -->
+    <string name="must_do">Must Do</string>
+    <string name="parks">Parks</string>
+    <string name="shopping">Shopping</string>
+    <string name="history">History</string>
+    <string name="nightlife">Nightlife</string>
+
+    <!-- Descriptions -->
+    //Must Do category
+    <string name="cheile_turzii_description">They are a protected natural reservation in Romania,
+        located at a distance of 6 km west from Turda, along the valley Hasdate.
+        The length of the of the Turda Keys is of 2.900 m. The walls height is up to 300 m.
+        The surface occupied by the Keys is of 125 ha and were formed by the erosion of the jurassic limestone rock by the river Hasdate.</string>
+    <string name="cetatuia_description">It is a fortification built during the Habsburg period
+        on the top of the hill with the same name in Cluj-Napoca, in the Gruia district</string>
+    <string name="salina_turda_description">The Salt Mine is now a veritable history museum of salt mining.
+        The excellent state of preservation of mining and machinery used to transport salt,
+        together with the cautious work carried out for prepararing the mine to become a tourist attraction,
+        have made history and legend meet harmoniously here.</string>
+    <string name="michaels_church_description">It is a Gothic-style Roman Catholic church in Cluj-Napoca.
+        It is the second largest church (after the Black Church of Brașov) in the geographical region of Transylvania, Romania.</string>
+    <string name="king_matthias_description">This classified historic monument, conceived by János Fadrusz and opened in 1902,
+        represents Matthias Corvinus. It is a historic monument in Romania</string>
+
+
+    //Parks category
+    <string name="central_park_description">The park is bounded by the Cluj Arena to the west, the Hungarian State Theater to the East,
+        the Somesul Mic River to the north, and the Iuliu Hossu (formerly Pavlov) to the south. It is listed on the historical monuments list in Cluj County</string>
+    <string name="botanical_garden_description">In addition to its role as a tourist destination,
+        the garden also serves as a teaching and research center as part of the Babeș-Bolyai University.
+        In 2010, the Romanian Ministry of Culture and National Patrimony categorized it as a historical monument.</string>
+    <string name="iulius_park_description">It is a small park featuring a lake and it is situated in the vecinity of Iulius Mall.</string>
+    <string name="rozelor_park_description">A very old park in one of the older neighbourhoods of the city. It has recently been revamped and
+        features a brand new Skatepark.</string>
+    <string name="gheorgheni_park_description">The most modern sports and leisure complex in Cluj made with European funds.</string>
+
+
+    //Shopping category
+    <string name="iulius_mall_description">Opened in 2007 and oriented towards multiculturalism,
+        IULIUS MALL CLUJ provides an original mix of its multiple uses and the fondness of Transylvanian locals for art in all its forms.</string>
+    <string name="vivo_mall_description">VIVO! was launched in October 2014. The brand represents the shopping centers that address small
+        and medium-sized towns in the urban agglomerations in the east and central Europe. </string>
+    <string name="platinia_description">Features 30 shops of recognized international. A great place to dine. 14 new events organized every month.</string>
+
+    //History category
+    <string name="theotokos_cathedral_description">is the most famous Romanian Orthodox church of Cluj-Napoca, Romania.
+        Built in a Romanian Brâncovenesc style, a synthesis of Renaissance and Byzantine architecture, it lies on the Avram Iancu Square</string>
+    <string name="franciscan_church_description"> is a place of worship in Cluj-Napoca, Romania. It was built between 1260 and 1290,
+        on the site of an older Catholic church destroyed during the Tatar invasions in 1241.</string>
+    <string name="ethnografic_museum_description">With a history of more than 80 years, the Ethnographic Museum of Transylvania is
+        one of the first and greatest of its kind in Romania. It has two exhibition sections, one of which is to be found in downtown Reduta Palace
+        (21, Memorandumului Street), while the other exhibition section is the open-air Romulus Vuia Park situated on the city\'s north-west side, in Hoia Forest.</string>
+    <string name="pharmacy_museum_description">The Pharmacy History Collection can be found in the oldest pharmacy building of Cluj-Napoca,
+        named “La Sfântul Gheorghe”, also known as the Hintz pharmacy, dating back to 1573.</string>
+    <string name="art_museum_description">With a collection of over 12,000 paintings, sculptures,
+        graphic arts and decorative pieces, it is considered one of the most important museums in Romania.</string>
+    <string name="observatory_description">Since 2008 the Observatory organizes activities for the general public also.
+        Visitors are welcome every Friday night, after dark, for a program scheduled for 2 hours.
+        It consists of an introduction (projecting a simulated configuration of the sky map of the moment accompanied by an explanation
+        of the celestial objects that will be observed), and a practical, observational part, using the existing instruments.</string>
+
+    //Nightlife category
+    <string name="londoner_pub_description">Londoner takes us to London, where people have a strange but sophisticated accent,
+        where we seem to look through the fogs and the specific English hats.</string>
+    <string name="flying_circus_pub_description">Located in the historic center of the city, in the basement of a building,
+        Flying Circus Pub is a club for young indie, rock, punk, or electronic music lovers.</string>
+    <string name="shto_bar_description">Shto College Bar is the place where you can find good music,
+        fine people, products for all tastes and a very friendly atmosphere!</string>
+    <string name="bruno_wine_bar_description">The Bruno Wine Bar and Bistro, a little spotless, an introduction to the particularities of wines on 4 continents,
+        in the careful balance of "l'apéritif et le digestif" plus a selection of fine cheeses and snacks in perfectly balanced combinations
+        because at just as with a successful "marriage", wine and food can not be separated. </string>
+    <string name="jazz_pub_description">Casa Tauffer is the only exclusive jazz and blues café in the city,
+        opened in 2010, located in the historic monument building, In the 18th century the first (unofficially, of course)
+        Iosefine (Radical) masonry was functioning, and then the first literary (German) salon in Cluj. </string>
+    <string name="noa_club_description">the place where fashion, luxury and fun meet and merge,
+        metamorphosed in a complete, complete, round, unforgettable experience.</string>
+
+    <!-- Addresses -->
+    //Must do category
+    <string name="cheile_turzii_address">Address: Cheile Turzii, Turda (DN75 Lunca-Turda)</string>
+    <string name="cetatuia_address">Address: Strada Călărașilor 1, Cluj-Napoca 34000</string>
+    <string name="salina_turda_address">Address: Aleea Durgăului 7, Turda 401106</string>
+    <string name="michaels_church_address">Address: Piața Unirii, Cluj-Napoca 400015</string>
+    <string name="king_matthias_address">Address: Piața Unirii, Cluj-Napoca</string>
+
+    //Parks category
+    <string name="central_park_address">Address: Cluj-Napoca, Strada Cardinal Iuliu Hossu </string>
+    <string name="botanical_garden_address">Address: Strada Republicii 42, Cluj-Napoca 400015</string>
+    <string name="iulius_park_address">Address: Strada Alexandru Vaida Voevod 53B, Cluj-Napoca 400436</string>
+    <string name="rozelor_park_address">Address: Strada Taberei, Cluj-Napoca</string>
+    <string name="gheorgheni_park_address">Address: Strada Alexandru Vaida Voevod, Cluj-Napoca</string>
+
+    //Shopping category
+    <string name="iulius_mall_address">Address: Strada Alexandru Vaida Voevod 53B, Cluj-Napoca 400436</string>
+    <string name="vivo_mall_address">Address: Strada Avram Iancu 492"-"500, Florești 407280</string>
+    <string name="platinia_mall_address">Address: Calea Manastur 2"-"6</string>
+
+    //History category
+    <string name="theotokos_cathedral_address">Address: Piața Avram Iancu, Cluj-Napoca</string>
+    <string name="franciscan_church_address">Address: Strada Émile Zola 2, Cluj-Napoca 400000</string>
+    <string name="ethnografic_museum_address">Address: Memorandumului Street 21, Cluj-Napoca 400114</string>
+    <string name="pharmacy_museum_address">Address: Piața Unirii 28</string>
+    <string name="observatory_address">Address: Strada Cireșilor 19, Cluj-Napoca 400487</string>
+    <string name="art_museum_address">Address: Piața Unirii 30, Cluj-Napoca</string>
+
+    //Nightlife category
+    <string name="londoner_pub_address">Address: Strada Émile Zola 5, Cluj-Napoca 400112</string>
+    <string name="flying_circus_pub_address">Address: Strada Universității 3, Cluj-Napoca 400000</string>
+    <string name="shto_bar_address">Address: Strada Memorandumului 6, Cluj-Napoca 400500</string>
+    <string name="bruno_wine_bar_address">Address: Strada Constantin Daicoviciu, Cluj-Napoca</string>
+    <string name="jazz_pub_address">Address: Strada Vasile Goldiș 2, Cluj-Napoca 400112</string>
+    <string name="noa_club_address">Address: Strada Republicii 109, Cluj-Napoca 400000</string>
+
+    <!-- Names of Places -->
+    //Must do category
+    <string name="cheile_turzii_name">Turda Keys</string>
+    <string name="cetatuia_name">Cetatuia</string>
+    <string name="salina_turda_name">Salina Turda</string>
+    <string name="michaels_church_name">St. Michael\'s Church</string>
+    <string name="king_matthias_name">King Matthias Corvin</string>
+
+    //Parks category
+    <string name="central_park_name">Central Park</string>
+    <string name="botanical_garden_name">Botanical Garden</string>
+    <string name="iulius_park_name">Iulius Park</string>
+    <string name="rozelor_park_name">Rozelor Skatepark</string>
+    <string name="gheorgheni_park_name">Gheorgheni Complex</string>
+
+    //Shopping category
+    <string name="iulius_mall_name">Iulius Mall</string>
+    <string name="vivo_mall_name">Vivo! Mall</string>
+    <string name="platinia_mall_name">Platinia Shopping Center</string>
+
+    //History category
+    <string name="theotokos_cathedral_name">Theotokos Cathedral</string>
+    <string name="franciscan_church_name">Franciscan Church</string>
+    <string name="ethnografic_museum_name">Museum of Etnografico</string>
+    <string name="pharmacy_museum_name">Pharmacy Museum</string>
+    <string name="observatory_name">Observatory</string>
+    <string name="art_museum_name">Museum of Art</string>
+
+    //Nightlife category
+    <string name="londoner_pub_name">The Londoner</string>
+    <string name="flying_circus_pub_name">Flying Circus PUB</string>
+    <string name="shto_bar_name">Shto College Bar</string>
+    <string name="bruno_wine_bar_name">Bruno Wine Bar</string>
+    <string name="jazz_pub_name">Casa Jazz</string>
+    <string name="noa_club_name">Club NOA</string>
+
+</resources>
