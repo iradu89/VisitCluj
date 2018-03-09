@@ -6,5 +6,5 @@ This app shows some of the main attractions of Cluj-Napoca and acts as a Tour Gu
 In this app I learned how to:
 - Select data structures to store lists of information
 - Building layouts to display those lists of data
-- Navigating between screens using a ViewPager using fragments
+- Navigating between screens using a ViewPager with fragments
 - Creating my own custom classes
